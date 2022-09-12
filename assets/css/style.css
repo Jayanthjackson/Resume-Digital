@@ -153,6 +153,21 @@ li{
     padding-left: 2em;
 }
 
+#main--1 {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 1em;
+    font-size: 18px;
+}
+
+#para--n--i  i {
+    color: #0da2b8;
+}
+
+#para--n--i ul li {
+    color: #0da2b8;
+}
+
 
 @media(max-width:600px){
     
